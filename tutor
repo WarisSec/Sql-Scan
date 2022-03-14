@@ -1,0 +1,9 @@
+instalasi one Linux Ad Termux 
+
+git clone https://github.com/WarisSec/Sql-Scan.git
+cd Sql-Scan
+chmod +x * 
+bash Sql-Scan.sh 
+
+
+done 
